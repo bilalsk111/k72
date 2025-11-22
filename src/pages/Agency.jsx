@@ -12,20 +12,20 @@ const Agency = () => {
   gsap.registerPlugin(ScrollTrigger)
 
   const imgArray = [
-    './agency-img/Carl_480x640-480x640.jpg',
-    './agency-img/CAMILLE_480X640_2-480x640.jpg',
-    './agency-img/ChantalG_480x640-480x640.jpg',
-    './agency-img/HugoJoseph_480x640-480x640.jpg',
-    './agency-img/Lawrence_480x640-480x640.jpg',
-    './agency-img/MAXIME_480X640_2-480x640.jpg',
-    './agency-img/MEGGIE_480X640_2-480x640.jpg',
-    './agency-img/MEL_480X640-480x640.jpg',
-    './agency-img/Michele_480X640-480x640.jpg',
-    './agency-img/MyleneS_480x640-480x640.jpg',
-    './agency-img/SophieA_480x640-480x640.jpg',
-    './agency-img/Olivier_480x640-480x640.jpg',
-    './agency-img/Claire_480x640-480x640.jpg',
-    './agency-img/joel_480X640_3-480x640.jpg',
+    '/agency-img/Carl_480x640-480x640.jpg',
+    '/agency-img/CAMILLE_480X640_2-480x640.jpg',
+    '/agency-img/ChantalG_480x640-480x640.jpg',
+    '/agency-img/HugoJoseph_480x640-480x640.jpg',
+    '/agency-img/Lawrence_480x640-480x640.jpg',
+    '/agency-img/MAXIME_480X640_2-480x640.jpg',
+    '/agency-img/MEGGIE_480X640_2-480x640.jpg',
+    '/agency-img/MEL_480X640-480x640.jpg',
+    '/agency-img/Michele_480X640-480x640.jpg',
+    '/agency-img/MyleneS_480x640-480x640.jpg',
+    '/agency-img/SophieA_480x640-480x640.jpg',
+    '/agency-img/Olivier_480x640-480x640.jpg',
+    '/agency-img/Claire_480x640-480x640.jpg',
+    '/agency-img/joel_480X640_3-480x640.jpg',
   ]
 
   const imgDiv = useRef(null);
@@ -156,7 +156,7 @@ useGSAP(() => {
     <div ref={bgRef} className='parent w-screen min-h-screen'>
       <div className='section1 py-1 lg:min-h-[200vh] min-h-full'>
         <div ref={imgDiv} className='absolute overflow-hidden lg:h-[20vw] h-[30vw] lg:rounded-3xl rounded-xl lg:w-[15vw] w-[25vw] top-[25vh] lg:left-[29vw] left-[37.5vw]'>
-          <img ref={img} className='h-full object-cover w-full' src="./agency-img/Carl_480x640-480x640.jpg" alt="" />
+          <img ref={img} className='h-full object-cover w-full' src="/agency-img/Carl_480x640-480x640.jpg" alt="" />
         </div>
         <div className='relative font-[font2]'>
           <div className='lg:mt-[50vh] mt-[35vh]'>
