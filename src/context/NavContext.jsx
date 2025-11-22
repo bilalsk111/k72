@@ -13,10 +13,6 @@ const NavContext = ({ children }) => {
   const pathname = location?.pathname ?? "/";
 
   useEffect(() => {
-    // Debug: see current path in console
-    // console.log("[NavContext] pathname:", pathname);
-
-    // Use startsWith to avoid trailing-slash issues
     if (pathname.startsWith("/works") || pathname.startsWith("/agency")) {
       setNavColor("black");
     } else {

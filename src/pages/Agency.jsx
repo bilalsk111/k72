@@ -5,7 +5,7 @@ import React, { useRef } from 'react'
 import Section2 from '../components/agence/Section2';
 import FixedCard from '../components/agence/FixedCard';
 import Footer from '../components/Footer';
-import TeamList from '../components/agence/TeamList';
+// import TeamList from '../components/agence/TeamList';
 
 const Agency = () => {
 
