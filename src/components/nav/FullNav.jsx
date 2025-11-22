@@ -103,7 +103,7 @@ const FullNav = () => {
                     <div onClick={() => {
                         setNavOpen(false)
                     }} className='lg:h-28 h-20 w-20 lg:w-24 relative cursor-pointer'>
-                       <img src="/public/Close.svg" alt="" />
+                       <img src="./public/Close.svg" alt="" />
                     </div>
                 </div>
                 <div className='lg:mt-[0.5vw] mt-[10vh]'>
@@ -123,7 +123,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/WS---K72.ca---MenuThumbnail-640x290.jpg"
+                      src="./public/WS---K72.ca---MenuThumbnail-640x290.jpg"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -131,7 +131,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
+                      src="./public/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
                       alt=""
                     />
                   </div>
@@ -141,7 +141,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/WS---K72.ca---MenuThumbnail-640x290.jpg"
+                      src="./public/WS---K72.ca---MenuThumbnail-640x290.jpg"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -149,7 +149,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
+                      src="./public/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
                       alt=""
                     />
                   </div>
@@ -172,7 +172,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/Carl_640X290-640x290.jpg"
+                      src="./public/Carl_640X290-640x290.jpg"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -180,7 +180,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/SophieA_640X290-640x290.jpg"
+                      src="./public/SophieA_640X290-640x290.jpg"
                       alt="Sophie A"
                     />
                   </div>
@@ -190,7 +190,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/Carl_640X290-640x290.jpg"
+                      src="./public/Carl_640X290-640x290.jpg"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -198,7 +198,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/SophieA_640X290-640x290.jpg"
+                      src="./public/SophieA_640X290-640x290.jpg"
                       alt=""
                     />
                   </div>
@@ -222,7 +222,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-32 object-center"
-                      src="/public/heart.png"
+                      src="./public/heart.png"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -230,7 +230,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-32 object-center"
-                      src="/public/heart.png"
+                      src="./public/heart.png"
                       alt=""
                     />
                   </div>
@@ -240,7 +240,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-32 object-center"
-                      src="/public/heart.png"
+                      src="./public/heart.png"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -248,7 +248,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-32 object-center"
-                      src="/public/heart.png"
+                      src="./public/heart.png"
                       alt=""
                     />
                   </div>
@@ -271,7 +271,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/ier.com-16107673482102220.gif"
+                      src="./public/ier.com-16107673482102220.gif"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -279,7 +279,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
+                      src="./public/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
                       alt=""
                     />
                   </div>
@@ -289,7 +289,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/ier.com-16107673482102220.gif"
+                      src="./public/ier.com-16107673482102220.gif"
                       alt=""
                     />
                     <h2 className="whitespace-nowrap font-[font2] text-[7.2vw] leading-[7.2vw] text-center pt-3 uppercase">
@@ -297,7 +297,7 @@ const FullNav = () => {
                     </h2>
                     <img
                       className="h-[10vh] rounded-full shrink-0 w-46 object-cover"
-                      src="/public/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
+                      src="./public/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
                       alt=""
                     />
                   </div>

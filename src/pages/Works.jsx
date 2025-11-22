@@ -8,14 +8,14 @@ import Footer from '../components/Footer';
 const Works = () => {
 
   const workImg = [
-    { img1: '/work-img/100temps_Thumbnail-1280x960.jpg', img2: '/work-img/BEST_site_menu_Thumbnail-1280x960.jpg' },
-    { img1: '/work-img/CF_thumbnail-1280x960.jpg', img2: '/work-img/chalaxeur-thumbnail_img-1280x960.jpg' },
-    { img1: '/work-img/crisis24_behance_1920X1200_cartes-1280x960.jpg', img2: '/work-img/Fruite_thumbnail_bbq-1280x960.jpg' },
-    { img1: '/work-img/OKA_thumbnail-1280x960.jpg', img2: '/work-img/opto_thumbnail2-1280x960.jpg' },
-    { img1: '/work-img/PJC_SiteK72_Thumbnail_1280x960-1280x960.jpg', img2: '/work-img/PME-MTL_Thumbnail-1280x960.jpg' },
-    { img1: '/work-img/thumbnail_OSM_1280-1280x960.jpg', img2: '/work-img/thumbnailimage_atable2-1280x960.jpg' },
-    { img1: '/work-img/thumbnailimage_opto-1280x960.jpg', img2: '/work-img/thumbnailimage_shelton-1280x960.jpg' },
-    { img1: '/work-img/thumbnailimage_SollioAg-1280x960.jpg', img2: '/work-img/WS---K72.ca---Thumbnail-1280x960.jpg' }
+    { img1: './work-img/100temps_Thumbnail-1280x960.jpg', img2: './work-img/BEST_site_menu_Thumbnail-1280x960.jpg' },
+    { img1: './work-img/CF_thumbnail-1280x960.jpg', img2: './work-img/chalaxeur-thumbnail_img-1280x960.jpg' },
+    { img1: './work-img/crisis24_behance_1920X1200_cartes-1280x960.jpg', img2: './work-img/Fruite_thumbnail_bbq-1280x960.jpg' },
+    { img1: './work-img/OKA_thumbnail-1280x960.jpg', img2: './work-img/opto_thumbnail2-1280x960.jpg' },
+    { img1: './work-img/PJC_SiteK72_Thumbnail_1280x960-1280x960.jpg', img2: './work-img/PME-MTL_Thumbnail-1280x960.jpg' },
+    { img1: './work-img/thumbnail_OSM_1280-1280x960.jpg', img2: './work-img/thumbnailimage_atable2-1280x960.jpg' },
+    { img1: './work-img/thumbnailimage_opto-1280x960.jpg', img2: './work-img/thumbnailimage_shelton-1280x960.jpg' },
+    { img1: './work-img/thumbnailimage_SollioAg-1280x960.jpg', img2: './work-img/WS---K72.ca---Thumbnail-1280x960.jpg' }
   ];
 
   gsap.registerPlugin(ScrollTrigger);
