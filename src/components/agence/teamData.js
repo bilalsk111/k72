@@ -12,7 +12,7 @@ export const teamArray = [
     firstName: "Claire",
     lastName: "Robert",
     position: "Account Manager",
-    image: "/agency-img/Claire_480x640-480x640.jpg",
+    image: "./agency-img/Claire_480x640-480x640.jpg",
   },
   {
     firstName: "Pierre-Luc",

@@ -10,7 +10,7 @@ const root = createRoot(document.getElementById('root'));
 
 root.render(
   <StrictMode>
-    <BrowserRouter basename="/k72/">
+    <BrowserRouter >
       <Stairs>
         <NavContext>
           <App />
